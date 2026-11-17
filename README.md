@@ -11,45 +11,19 @@
 
 <br/>
 
-**AI 기술을 실제 서비스로 연결하는 개발자, 임창우입니다.**
-
-<sub>Interested in AI Agents · LLM · Machine Learning · Backend · MLOps</sub>
+<img src="https://img.shields.io/badge/AI%20Engineer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Developer-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agent-0F766E?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://github.com/w-000000">
   <img src="https://img.shields.io/badge/GitHub-w--000000-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=w-000000&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
-
-<br/>
-
-<!-- ABOUT ME -->
-
-<h2 align="center">✦ About Me</h2>
-
-<div align="center">
-
-🎓 **Jeonbuk National University**  
-Department of Software Engineering
-
-🔬 **AI & Software Engineering**  
-AI&SE Laboratory Undergraduate Research Experience
-
-🚀 **Building AI-powered Services**  
-From Machine Learning Models to Real-world Applications
-
-</div>
-
-<br/>
-
-> **"Beyond building AI models, I aim to develop AI services that solve real problems."**
->
-> 모델의 성능뿐 아니라 실제 서비스에 적용하는 과정에 관심이 있습니다.  
-> AI 모델 개발, 백엔드 API 구현, 멀티에이전트 설계와 MLOps를 경험하며  
-> AI 기술을 안정적인 서비스로 연결하는 역량을 키워가고 있습니다.
 
 <br/>
 
@@ -70,7 +44,7 @@ From Machine Learning Models to Real-world Applications
 <br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
@@ -131,33 +105,38 @@ From Machine Learning Models to Real-world Applications
 
 ---
 
-### 📈 AI Demand Forecasting & MLOps
+### 🏋️ FITLY – AI Fitness Recommendation Service
 
-**카페 수요 예측 및 AI 모델 운영 시스템**
+**AI 기반 맞춤형 운동 추천 서비스**
 
-> 카페 판매 수요를 예측하고 모델 학습·등록·배포·모니터링 과정을 관리하는 AI 운영 시스템
+> 사용자의 운동 목적과 정보를 기반으로 개인화된 운동을 추천하고, 프론트엔드와 백엔드 API를 연동한 웹 서비스
 
-- LSTM 기반 시계열 수요 예측 모델
-- MLflow 기반 실험 추적 및 모델 관리
-- FastAPI 기반 추론 API
-- 모델 성능 검증 및 운영 모니터링 구조 설계
+- Vue.js 기반 메인 페이지 및 운동 추천 UI 개발
+- Spring Boot 기반 REST API 연동
+- PostgreSQL을 활용한 사용자 및 서비스 데이터 관리
+- GitHub Actions 기반 CI 및 클라우드 배포 환경 구성
 
-**Tech:** `Python` `TensorFlow` `FastAPI` `MLflow` `Docker`
+**Tech:** `Vue.js` `Java` `Spring Boot` `PostgreSQL` `GitHub Actions` `Render`
 
 ---
 
-### 🖥️ System Resource Anomaly Detection
+### 🤖 AI COACH – AI Agent Service
 
-**LSTM AutoEncoder 기반 시스템 자원 이상 탐지**
+**LLM 및 AI Agent 기반 지능형 코칭 서비스**
 
-> 시스템 자원 사용 패턴을 학습하고 비정상적인 CPU·메모리·디스크 사용을 탐지하는 시스템
+> 사용자의 질문에 AI 에이전트가 응답하고, 외부 도구와 정보를 활용해 맞춤형 답변을 제공하는 AI 서비스
 
-- LSTM AutoEncoder 기반 시계열 이상 탐지
-- CPU, Memory, Disk I/O 특성 분석
-- 재구성 오차 기반 이상 판단
-- psutil 기반 실시간 자원 모니터링
+- LangGraph 기반 AI Agent 워크플로 구축
+- FastAPI 기반 AI 서비스 API 개발
+- MCP를 활용한 외부 도구 및 리소스 연동
+- SSE 기반 실시간 AI 응답 스트리밍 구현
+- LLM 기반 요청 처리 및 에이전트 실행 흐름 설계
 
-**Tech:** `Python` `TensorFlow` `LSTM` `psutil`
+**Tech:** `Python` `FastAPI` `LangGraph` `LangChain` `MCP` `SSE` `LLM`
+
+<a href="https://github.com/w-000000/AI_COACH">
+  <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/>
 
@@ -172,7 +151,7 @@ From Machine Learning Models to Real-world Applications
 | 🔬 AI&SE Laboratory | Undergraduate Researcher |
 | 🎓 SKALA AI | AI Engineering Education Program |
 | 💻 AM:PM | Software Development Club Vice President |
-| 📚 Software Engineering | Jeonbuk National University |
+| 📚 Jeonbuk National University | Software Engineering |
 
 </div>
 
@@ -224,14 +203,11 @@ From Machine Learning Models to Real-world Applications
 
 <div align="center">
 
-**Interested in AI, Software Engineering, and building meaningful technology.**
-
 <a href="https://github.com/w-000000">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your email when ready -->
-<!--
+<!-- 이메일 추가 시 아래 주석을 해제하세요.
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -244,4 +220,3 @@ From Machine Learning Models to Real-world Applications
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:172554,100:2563EB&height=120&section=footer" width="100%"/>
 
 </div>
-
